@@ -1,9 +1,9 @@
 import { useState } from "react";
-import Nav from "./components/nav";
-import Header from "./components/header";
-import Content from "./components/content";
-import Ourproduct from "./components/ourproduct";
-import Footer from "./components/footer";
+import Nav from "./components/Nav";
+import Header from "./components/Header";
+import Content from "./components/Content";
+import Ourproduct from "./components/Ourproduct";
+import Footer from "./components/Footer";
 
 import "./App.css";
 
